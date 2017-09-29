@@ -1,0 +1,2 @@
+# initGitC
+blabla!
